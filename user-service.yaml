@@ -3,7 +3,8 @@ spring:
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://localhost:3306/msa
     username: msa
-    password: '{cipher}028c3e52229f3eb4bc62fcbc923a89cf973d4619a36e3030e2a1c15b5a751115'
+    # password: '{cipher}028c3e52229f3eb4bc62fcbc923a89cf973d4619a36e3030e2a1c15b5a751115'
+    password: '{cipher}AQBO8ZqZY4ddqD1ZVmCKx55kk2dJuA8vPudMf8rnDy+1yGkxPZ/wqDhvXrk5fmvodMT+KCF5381qcrJQBlCb+BAN9UAXofamWRkYITOioQTcerq3lYWNoNbzw/goOP1MTO7gWH8YpRoTHu7himEHpVA5uheXPIulazJTVbvRMNL0FQPv7WzhA/2e3d3J8A6pF9CJsB7+PZYnAkiqBAlp06QYfvWp2BGlK9FO/0ly+A/TKZh2QqWuIyXGiQJpIInOzIvlHbW9w6u4esuXgQlhh6hMYnxFl49jLEmTRr53Als9pW/SuwJb+mHB9DeCagLMiNpPPJJ/fjuQ9k0u2o5OXVNprr/r+Lobv7QfWi3LUHKYH0MC7/82a1Te9hNsDM/HztQ='
 
 token:
   expiration_time: 86400000
